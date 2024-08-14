@@ -23,6 +23,7 @@ section {
     float: left;
     height: 300px;
     position: relative;
+    margin-bottom: 10px;
 }
 
 h2 {
